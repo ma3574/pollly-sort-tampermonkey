@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Polly - Sort by Votes
 // @namespace    DDCT
-// @version      0.1
+// @version      0.2
 // @description  Sorts Polly by votes
 // @author       Muhammed Ahmed
-// @updateURL    https://github.com/ma3574/pollly-sort-tampermonkey/raw/master/pollly-sorter.js
-// @downloadURL  https://github.com/ma3574/pollly-sort-tampermonkey/raw/master/pollly-sorter.js
+// @updateURL    https://raw.githubusercontent.com/ma3574/pollly-sort-tampermonkey/master/pollly-sorter.js
+// @downloadURL  https://raw.githubusercontent.com/ma3574/pollly-sort-tampermonkey/master/pollly-sorter.js
 // @match        https://poll.ly/
 // @run-at       document-idle
 // @grant        none
